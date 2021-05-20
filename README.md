@@ -6,6 +6,9 @@
 
 [![Renan Delmonico's Last 7 Days Status](https://github-readme-stats.vercel.app/api/wakatime?username=renandelmonico&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🏆 My GitHub profile trophy
+[![Renan Delmonico's github trophy](https://github-profile-trophy.vercel.app/?username=renandelmonico&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **renandelmonico/renandelmonico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
