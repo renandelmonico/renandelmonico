@@ -10,6 +10,9 @@
 Aqui estão as tecnologias que tenho trabalhado nos últimos 7 dias...
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=renandelmonico&theme=dracula">
+<div>
+  <img height="360em" style="height: 100%;" src="https://metrics.lecoq.io/renandelmonico?template=terminal&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&followup=1&isocalendar.duration=full-year&followup.sections=repositories&followup.indepth=true&config.timezone=America%2FFortaleza">
+</div>
 
 ##
 
