@@ -39,8 +39,9 @@ I have experience working with APIs, websites, event-driven applications, micros
 I've had the opportunity to speak at some events, including:
 
 - Vida de Programador Weekend
-- Jornada Acadêmica - Faculdade Alfa Umuarama / Faculdade Integrada Campo Mourão
+- DevPR - Ingá.PHP
 - 2º Meetup DevParaná Umuarama
+- Jornada Acadêmica - Faculdade Alfa Umuarama / Faculdade Integrada Campo Mourão
 
 You can see the talks and slides on my [GitHub page](https://github.com/renandelmonico/palestras).
 
