@@ -38,6 +38,7 @@ I have experience working with APIs, websites, event-driven applications, micros
 ## Talks
 I've had the opportunity to speak at some events, including:
 
+- PHP Conference
 - Vida de Programador Weekend
 - DevPR - Ingá.PHP
 - 2º Meetup DevParaná Umuarama
