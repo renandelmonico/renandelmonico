@@ -41,6 +41,7 @@ I've had the opportunity to speak at some events, including:
 - PHP Conference
 - Vida de Programador Weekend
 - DevPR - Ingá.PHP
+- DevPR - BEMUG
 - 2º Meetup DevParaná Umuarama
 - Jornada Acadêmica - Faculdade Alfa Umuarama / Faculdade Integrada Campo Mourão
 
